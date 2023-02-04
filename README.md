@@ -1,2 +1,0 @@
-# GetAJobFailure
-Gud.
